@@ -18,7 +18,6 @@ C:\Users\Smartkit\source\repos\4People.StatisticalTestTask\4People.StatisticalTe
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\bin\Debug\4People.StatisticalTestTask.exe.config
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\bin\Debug\4People.StatisticalTestTask.exe
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\bin\Debug\4People.StatisticalTestTask.pdb
-C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\obj\Debug\4People.Statistical.csprojAssemblyReference.cache
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\obj\Debug\MainWindow.g.cs
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\obj\Debug\App.g.cs
 C:\Users\Smartkit\Source\Repos\4people2\4People.StatisticalTestTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
